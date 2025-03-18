@@ -22,6 +22,7 @@ The **Smart Attendance System** leverages facial recognition technology to autom
 ## 🚀 Libary Install
 
 - pip install tk-tools
+- pip install opencv-python
 - pip install opencv-contrib-python
 - pip install datetime
 - pip install pytest-shutil
