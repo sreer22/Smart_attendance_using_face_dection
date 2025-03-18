@@ -38,4 +38,4 @@ The **Smart Attendance System** leverages facial recognition technology to autom
 
 ##  👾 YouTube Link🔗 
 
-
+https://youtu.be/kkFq5tPXxxk?feature=shared
